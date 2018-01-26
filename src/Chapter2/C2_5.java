@@ -9,7 +9,6 @@ import java.util.Scanner;
  *
  * @author Jared Sachs
  */
-
 public class C2_5 {
 
     /**
