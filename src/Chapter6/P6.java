@@ -1,5 +1,7 @@
 package Chapter6;
+
 import java.util.Scanner;
+
 /**
  * Program allows user to input how many euros, pound sterling, and yen a dollar
  * would buy, then the user will input how many dollars they have and the
@@ -7,14 +9,13 @@ import java.util.Scanner;
  *
  * @author Jared Sachs
  */
-
-
 public class P6 {
-/**
- * Main Method
- *
- * @param args arguments from command line prompt
- */
+
+    /**
+     * Main Method
+     *
+     * @param args arguments from command line prompt
+     */
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println(" Enter how much euros a dollar will buy: ");

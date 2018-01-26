@@ -8,7 +8,6 @@ import java.util.Scanner;
  *
  * @author Jared Sachs
  */
-
 public class C4_18 {
 
     /**
